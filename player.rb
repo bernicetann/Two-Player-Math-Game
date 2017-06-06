@@ -25,9 +25,3 @@ end
 
 
 
-
-# PLAYERS
-#   instantialize(constructor)
-#   @lives
-#   decrement_lives()
-#   store scores
